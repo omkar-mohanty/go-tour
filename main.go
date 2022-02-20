@@ -8,5 +8,5 @@ import (
 
 func main() {
 	fmt.Println("go tutorial and experiment")
-	gorutines.WaitGr()
+	gorutines.ChanBuffer()
 }
